@@ -2,16 +2,6 @@
   "intents": 
   [
     {
-      "tag": "SIH",
-      "patterns": [
-        "Describe Fatima"
-      ],
-      "responses": [
-        "She is the most beautiful person in the world..My owner Nikhil feels very lucky to have her. He speaks about her all the time."
-      ]
-    },
-
-    {
       "tag": "greeting",
       "patterns": [
         "Hi",
