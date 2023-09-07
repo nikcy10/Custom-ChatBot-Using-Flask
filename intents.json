@@ -1,0 +1,388 @@
+{
+  "intents": 
+  [
+    {
+      "tag": "SIH",
+      "patterns": [
+        "Describe Fatima"
+      ],
+      "responses": [
+        "She is the most beautiful person in the world..My owner Nikhil feels very lucky to have her. He speaks about her all the time."
+      ]
+    },
+
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "Q01Nikhil",
+      "patterns": [
+        "When was the Mines Act passed?",
+        "When was the mines act found?",
+        "What year was the Mines Act founded in?"
+      ],
+      "responses": [
+        "The Mines Act was brought into compliance on the 15th of March 1952."
+      ]
+    },
+    {
+      "tag": "Q02Nikhil",
+      "patterns": [
+        "What are the functions of a committee?",
+        "Explain the functions of the committee"
+      ],
+      "responses": [
+        "Functions of the committee (1) The Committee constituted under sub-section (1) of section 12 shall (a) consider proposal for making rules and regulations under this Act and make appropriate recommendations to the Central Government; (b) enquiry into such accidents or other matters as may be referred to it by the Central Government from time to time and make reports thereon; and (c) subject to the provisions of such-section(2), hear and decide any appeals or objections against notices or orders under this Act or the regulations, rules or bye-laws thereunder as are required to be referred to it by this Act or as may be prescribed. (2) The Chief Inspector shall not take part in the proceedings of the Committee with respect to any appeal or objection against an order on notice made or issued by him or act in relation to any matter pertaining to such appeal or objection as a member of the Committee."
+      ]
+    },
+    {
+      "tag": "Q03Nikhil",
+      "patterns": [
+        "What are the Powers of a committee?","Explain powers of a committee."
+      ],
+      "responses": [
+        "Powers of Committees formed under section 12 of the Mines Act:1. **Powers Similar to Inspectors**: These Committees have the authority to use some of the same powers that Inspectors under the Mines Act have. They can decide which powers they need to carry out their duties effectively. 2. **Powers Similar to a Court**: These Committees are also granted powers similar to those of a court under the Code of Civil Procedure, 1908. Specifically, they can: - Request the discovery and inspection of information or objects - Require individuals to attend hearings and provide testimony under oath.    - Demand the submission of documents.    - Exercise other powers as specified by the law. In essence, these Committees have significant authority to investigate and address matters related to the Mines Act, similar to a legal court."
+      ]
+    },
+
+    {
+      "tag": "Q04Nikhil",
+      "patterns": [
+        "What is a notice?","Who sends a notice?","How are mining operations approved by the Government?"
+      ],
+      "responses": [
+        "In order to get approval from the government, He, owner, agent or manager of a mine shall, before the commencement of any mining operation, give to the Chief Inspector, the Controller, Indian Bureau of Mines and the District Magistrate of the district in which the mine is situated, notice in writing in such form and containing such particulars relating to the mine, as may be prescribed."
+      ]
+    },
+
+    {
+      "tag": "Q05Nikhil",
+      "patterns": [
+        "What is the role of a manager?","Explain roles of a manager"
+      ],
+      "responses": [
+        "Save as may be otherwise prescribed, every mine shall be under a sole manager who shall have the prescribed qualifications and the owner or agent of every mine shall appoint a person having such qualifications to be the manager."
+      ]
+    },
+    
+    {
+      "tag": "Q06Nikhil",
+      "patterns": [
+        "What are the Duties of owners??",
+        "What are the responsibilities of agents?",
+        "What are the duties of managers?"
+      ],
+      "responses": [
+        "The responsibilites and duties of Owners, Managers and Agents are: They must make financial and other arrangements to comply with the law. Responsibilities regarding certain matters are exclusively carried out by the owner, agent, or appointed individuals. If their instructions lead to a violation of the law, the person giving those instructions is also liable. The owner, agent, and manager are collectively responsible for ensuring all mining operations comply with the law. If there's a violation, multiple individuals, including supervisors and managers, may be considered guilty unless they prove they took reasonable steps to prevent the violation. Appointing officials doesn't absolve the owner or agent from responsibility in legal proceedings."
+      ]
+    },
+
+    {
+      "tag": "Q07Nikhil",
+      "patterns": [
+        "What are the provisions related to health and safety of workers?",
+        "List the provisions related to health of the workers.",
+        "List the provisions for safety of workers."
+      ],
+      "responses": [
+        "Drinking Water: Mines must provide accessible drinking water for employees, marked as DRINKING WATER. It should not be near washing areas, urinals, or latrines, except with Chief Inspector approval. Conservancy: Mines must provide an adequate number of clean and accessible latrines and urinals for male and female employees. They should be well-lit and ventilated. Medical Appliance: Mines should have first-aid boxes or cupboards with prescribed contents, accessible during work hours. Trained personnel must oversee them. Arrangements for transporting injured or ill workers to hospitals should be in place. Larger mines (over 150 employees) require a first-aid room with specific equipment and medical staff. These provisions aim to ensure the health, safety, and well-being of mine workers."
+      ]
+    },
+
+    {
+      "tag": "Q08Nikhil",
+      "patterns": [
+        "What is done in cases of accidents?",
+        "What happens when an accident takes place?"
+      ],
+      "responses": [
+        "Accidents causing reportable injuries must be recorded in a register, and copies shared with the Chief Inspector quarterly. Fatal accidents trigger an inquiry within two months, conducted by the Inspector or the authority. The Central Government may specify other accidents requiring registration. Copies of these accident entries must be sent to the Chief Inspector by January 20 of the following year. After a fatal or serious injury accident, the accident site cannot be disturbed without Inspector or Chief Inspector consent, except to prevent further accidents, remove bodies, rescue people, or if not disturbing it would significantly hinder mining operations. If the Chief Inspector or Inspector doesn't inspect the site within 72 hours, work may resume at the accident site."
+      ]
+    },
+
+    {
+      "tag": "Q09Nikhil",
+      "patterns": [
+        "What is the maximum work hours?",
+        "How many hours are workers allowed to work?"
+      ],
+      "responses": [
+        "No person employed below ground in a mine shall be allowed to work for more than forty-eight hours in any week or for more than eight hours in any day"
+      ]
+    },
+
+    {
+      "tag": "Q10Nikhil",
+      "patterns": [
+        "Is the labourer given extra pay for overtime?",
+        "Can the labourer earn extra if he/she works overtime?"
+      ],
+      "responses": [
+        "If a person works above ground for more than nine hours in a day, below ground for more than eight hours in a day, or for more than 48 hours in a week, they are entitled to double their regular wage for the extra time worked. The overtime calculation can be done on a daily or weekly basis, whichever benefits the worker more. If a mine worker is paid based on a piece-rate system, their time-rate for overtime is calculated as the daily average of their earnings for the days they actually worked in the week before the one with overtime, excluding any overtime pay. This calculated time-rate is considered their regular wage for overtime purposes. If they didn't work on the same job in the preceding week, the calculation is based on the average for the days they worked in the current week, excluding overtime, or the daily average of their earnings from any previous week, whichever is higher."
+      ]
+    },
+
+    {
+      "tag": "Q11Nikhil",
+      "patterns": [
+        "Explain the leave structure in a mining industry job.",
+        "How and when can a labourer apply for leaves in a mining industry job?"
+      ],
+      "responses": [
+        "Annual Leave Wages (Section 52): This section outlines the rules for calculating leave with wages for mine employees: Employees working below ground get one day of leave for every fifteen days of work. Employees working above ground get one day of leave for every twenty days of work. Certain conditions must be met for a calendar year of service to be considered complete. Leave not taken in one year can be added to the next year but cannot exceed 30 days. If an employee applies for leave but is not granted it, they can carry it forward without limits. Employees can apply for leave at least fifteen days in advance and can take leave up to three times in a calendar year. Leave can only be refused if it's necessary due to exceptional circumstances. Termination and Payment (Section 52(8) and 52(10)): If an employee's service is terminated o they quit before taking their entitled leave, they should be paid for the unused leave. The rate of payment is specified in section 53. This payment should be made shortly after termination or quitting, and there are different conditions based on whether the employee worked below or above ground. Notice Period (Section 52(9)): Unused leave should not be considered when calculating the notice period required for terminating an employee's contract. Death of Employee (Section 52(10)): If an employee dies while in service, their heirs are entitled to receive payment for any unused leave at the specified rate, subject to certain conditions depending on whether the employee worked below or above ground."
+      ]
+    },
+
+    {
+      "tag": "Q12Nikhil",
+      "patterns": [
+        "What happens when an employee presents false documents for employment?",
+        "Explain the consequences for production of fake documents for employment"
+      ],
+      "responses": [
+        "Whoever knowingly uses or attempts to use as a certificate of fitness granted to himself under section 43 a certificate granted to another person under that section, or having been granted a certificate of fitness to himself under that section, knowingly allows it to be used, or allows an attempt to use it to be made by another person shall be punishable with imprisonment for a term which may extend to one month, or with fine which may extend to two hundred rupees, or with both."
+      ]
+    },
+
+    {
+      "tag": "Q13Nikhil",
+      "patterns": [
+        "What are the consequences of Child Labour in mining industry?",
+        "How are child labour cases handled in the mining industry?"
+      ],
+      "responses": [
+        "If a person below eighteen years of age is employed in a mine in contravention of section 40, the owner, agent or manager of such mine shall be kpunishable with fine which may extend to five hundred rupees."
+      ]
+    },
+
+    {
+      "tag": "QVedant01",
+            "patterns": 
+            [
+              "When did the colliery Control Act 2000 come into action?",
+              "When did the colliery Control Act 2000 come into force?",
+              "When was the colliery Control Act 2000 found?",
+              "The date of colliery Control Act 2000?"
+      
+            ],
+            "responses": 
+            [
+               "The Colliery Control Act 2000 came into force on the 1st day of January, 2000." 
+            ]
+      },
+      
+      {
+      "tag": "QVedant02",
+            "patterns": 
+            [
+              "What does colliery mean?",
+              "Describe the term colliery",
+              "What do you mean by colliery?"
+            ],
+            "responses": 
+            [
+               "'Colliery' means any mine or open working where winning or extraction of coal is the principal object of the mining, quarrying or any other operation carried on therein, and includes a plant for the production of coke or for the washing of coal." 
+            ]
+      },
+      
+      {
+      "tag": "QVedant03",
+            "patterns": 
+            [
+              "What does coal consist of?",
+              "What are the components of coal?"
+      
+            ],
+            "responses": 
+            [
+               "'Coal' includes anthracite, bituminous coal, lignite, peat and any other form of carbonaceous matter sold or marketed as coal and also coke. "
+            ]
+      },
+      
+      {
+      "tag": "QVedant04",
+            "patterns": 
+            [
+              "What do you mean by Coal Controller?",
+              "What is Coal Controller?",
+              "Who is a coal controller?"
+      
+            ],
+            "responses": 
+            [
+               "`Coal Controller' means the person appointed as such by the Central Government under the provisions of the Coal Controller’s Organisation (Group ‘A’ Posts) Recruitment Rules, 1986 " 
+            ]
+      },
+      
+      {
+      "tag": "QVedant05 ",
+            "patterns": 
+            [
+              "What is Colliery Control Order 2000?",
+              "Tell me about Colliery Order 2000",
+              "Describe Colliery Control Order 2000?"
+              
+      
+            ],
+            "responses": 
+            [
+               "Government of India has amended the new Colliery Control Order, 2000 according to which the price and distribution of all grades of coal have been deregulated with effect from 1.1.2000. Coal Companies/Coal India Limited are allocating coking coal to steel plants for their requirements. For core sector, sale of coal is guided by linkages and allocations by the competent authorities.For non-core Sector consumers, with a view to reaching the benefit of decontrol of coal as per Colliery Control Order, 2000, Coal India Limited has decided to authorize its subsidiary companies to formulate their own system and procedure for sale of coal to this sector. The new policy of Coal India Limited is aimed at providing a simplified, transparent and customer-friendly system and procedure. In the new policy framework the system of linkage and sponsorship for the purpose of coal supply to non-core sector is being done away with. In the emerging new policy framework for coal sale to non-core sector, stress is being given on bilateral agreement between supplying subsidiary company and consumer for well defined commitment on the part of both buyer and seller."
+            ]
+      },
+      
+      {
+      "tag": "QVedant06 ",
+            "patterns": 
+            [
+              "What is procedure of categorisation of coal?",
+              "What are the steps of categorisation of coal?",
+              "How to categorise coal?"
+            ],
+            "responses": 
+            [
+               "(1) On the basis of the categorisation notified by the Central Government under clause 3, the Coal Controller shall lay down the procedure and method of sampling and analysis of coal for the purpose of declaration and maintenance of grades of coal mined in a colliery. (2) The owner, agent or manager of a colliery shall declare the classes, grades or sizes of the coal of any seam or section of a seam in a colliery in accordance with the procedure specified in sub-clause (1). (3) The owner, agent or manager of the colliery shall allow the inspection of the colliery undertaken by the Coal Controller or any officer authorised by him in this regard so as to ensure the correctness of the class, grade or size declared. During inspection if the Coal Controller or the officer authorised by him decides to draw sample, the owner, agent or manager of the colliery shall provide all reasonable facilities and assistance for drawing such sample. (4) If after inspection or from the sample drawn, the Coal Controller is satisfied that the grade as declared by the owner, agent or the manager of the colliery does not conform to the grade notified under clause 3, the owner, agent or manager of the colliery shall be bound to revise the grade as per the directions issued by the Coal Controller. (5) If any dispute arises between a consumer and a owner of a colliery regarding the declaration of grades of coal, the same may be referred to the Coal Controller whose decision shall be binding on the owner of the colliery. A memorandum of reference to the Coal Controller regarding such dispute shall be accompanied by a fee of rupees two thousand and five hundred and in such manner as may be specified by the Coal Controller, from time to time. "
+            ]
+      },
+      
+      {
+      "tag": "QVedant07 ",
+            "patterns": 
+            [
+              "Can a colliery open a coal mine wihtout prior permission?",
+              "How to open a coal mine without prior permission?"
+            ],
+            "responses": 
+            [
+               "(1) No owner of a colliery shall open a coal mine, seam or a section of a seam without the prior permission in writing of the Central Government. (2) No owner of a colliery shall also commence mining operations in a colliery or seam or a section of a seam, in which the mining operation has been discontinued for a period exceeding one hundred and eighty days,without the prior permission in writing of the Central Government. "
+            ]
+      },
+      
+      {
+      "tag": "QVedant08",
+            "patterns": 
+            [
+              "What are the directions to regulate the disposal of coal stocks?"
+            ],
+            "responses": 
+            [
+              "The Central Government may, from time to time, issue such directions as it may deem fit to any owner of a colliery 15:11 05-09-20235 regulating the disposal of stocks of coal or of the expected output of coal in the colliery during any period. "
+            ]
+      },
+
+      {
+        "tag": "Q01Tanishq",
+        "patterns": [
+          "What are the Payment of Wages (Mines) Rules, 1956?",
+          "Tell me about the Payment of Wages (Mines) Rules, 1956."
+        ],
+        "responses": [
+          "The Payment of Wages (Mines) Rules, 1956, are a set of regulations under the Payment of Wages Act, 1936, specifically designed for the mining industry in India. They govern aspects such as wage payment frequency, permissible deductions, and record-keeping in mines."
+        ]
+      },
+      {
+        "tag": "Q02Tanishq",
+        "patterns": [
+          "How often should wages be paid according to these rules?",
+          "What is the wage payment frequency in mines as per the rules?"
+        ],
+        "responses": [
+          "Wages in mines, as per these rules, are typically paid on a weekly, fortnightly, or monthly basis, depending on the wage period agreed upon by the employer and employees."
+        ]
+      },
+      {
+        "tag": "Q03Tanishq",
+        "patterns": [
+          "Can employers make deductions from wages?",
+          "What are the rules regarding wage deductions in mines?"
+        ],
+        "responses": [
+          "Yes, employers are allowed to make certain deductions from workers' wages, but these deductions should not exceed a specified limit. Deductions are subject to conditions outlined in the rules."
+        ]
+      },
+      {
+        "tag": "Q04Tanishq",
+        "patterns": [
+          "What are the penalties for violating these rules?",
+          "What happens if an employer violates the rules?"
+        ],
+        "responses": [
+          "Violations of these rules can lead to penalties, including fines and legal action against employers. It's crucial for employers to comply with these regulations to avoid legal consequences."
+        ]
+      },
+      {
+        "tag": "Q05Tanishq",
+        "patterns": [
+          "What is the purpose of the Payment of Wages Rules?",
+          "Why were the Payment of Wages (Mines) Rules introduced?"
+        ],
+        "responses": [
+          "The Payment of Wages (Mines) Rules, 1956, aim to regulate the payment of wages to mine workers, ensure timely and accurate wage payments, and establish guidelines for deductions, among other things."
+        ]
+      },
+      {
+        "tag": "Q06Tanishq",
+        "patterns": [
+          "Are there any specific provisions for overtime pay in payment of wages rules?",
+          "Do the Payment of Wages rules include provisions for overtime pay?"
+        ],
+        "responses": [
+          "Yes, the Payment of Wages (Mines) Rules, 1956, include provisions for overtime pay, specifying the rates and conditions under which mine workers are entitled to overtime compensation."
+        ]
+      },
+      {
+        "tag": "Q07Tanishq",
+        "patterns": [
+          "How are wages calculated for mine workers under these rules?",
+          "What factors are considered when calculating wages as per the Payment of Wages (Mines) Rules, 1956?"
+        ],
+        "responses": [
+          "Wages for mine workers are calculated based on various factors, including the type of work, hours worked, and any applicable allowances. The rules provide guidelines for wage calculation."
+        ]
+      },
+      {
+        "tag": "Q08Tanishq",
+        "patterns": [
+          "What records should employers maintain under these rules?",
+          "What are the record-keeping requirements outlined in the Payment of Wages (Mines) Rules, 1956?"
+        ],
+        "responses": [
+          "Employers are required to maintain records of wages, attendance, deductions, and other relevant information as specified by the Payment of Wages (Mines) Rules, 1956."
+        ]
+      },
+      {
+        "tag": "Q09Tanishq",
+        "patterns": [
+          "Can mine workers request details of their wages and deductions?",
+          "Do mine workers have the right to request information about their wages and deductions?"
+        ],
+        "responses": [
+          "Yes, mine workers have the right to request details of their wages and deductions from their employers as per the rules. Employers are obligated to provide this information."
+        ]
+      },
+      {
+        "tag": "Q10Tanishq",
+        "patterns": [
+          "How can I file a complaint if my employer does not follow these rules?",
+          "What should I do if my employer violates the Payment of Wages (Mines) Rules, 1956?"
+        ],
+        "responses": [
+          "If your employer does not comply with the Payment of Wages (Mines) Rules, 1956, you can file a complaint with the labor authorities or the appropriate regulatory body. Legal action can be taken against non-compliant employers."
+        ]
+      }
+      
+  ]
+}
